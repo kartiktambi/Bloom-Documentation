@@ -24,4 +24,4 @@ To get best results, please replace my own API Key's with your keys; You can get
 After creating a project on Google Developer's Console, Select the Project from the "Spinner" on top left corner of the page. Then on the Dashboard, tap "Enable APIs and Services", then search & select the "Google Books API".
 Next, click the "Enable" button. You will be redirected to Dashboard; After this, in the message - "To use this API, you may need credentials." click "Create Credentials" button.
 After that, please select the "Google Books API" from the API spinner, then select "Other UI - e.g.: Windows" and then "Public Data".
-Now you will get the API key by clicking "What credentials do I need?". Please paste the API key in the "when books_btn clicked" block (there is a comment written on the block for ease.) on the "dict and books" screen in the project.
+Now you will get the API key by clicking "What credentials do I need?". Please paste the API key in the "when books_btn clicked" block (there is a comment written on the block for ease) on the "dict and books" screen in the project.
