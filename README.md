@@ -25,3 +25,5 @@ After creating a project on Google Developer's Console, Select the Project from 
 Next, click the "Enable" button. You will be redirected to Dashboard; After this, in the message - "To use this API, you may need credentials." click "Create Credentials" button.
 After that, please select the "Google Books API" from the API spinner, then select "Other UI - e.g.: Windows" and then "Public Data".
 Now you will get the API key by clicking "What credentials do I need?". Please paste the API key in the "when books_btn clicked" block (there is a comment written on the block for ease) on the "dict and books" screen in the project.
+
+* For the Yandex Translator, I have applied my own key; to make sure app runs perfectly, please apply your own key
