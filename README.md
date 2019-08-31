@@ -31,7 +31,7 @@ The Spreadsheet consists of the following Tables, with their respective Column h
   * Notice - This stores the Notice Body given by the teacher. *(Column field type : Single_line_text)*
   * Date - This stores the date of when the notice was published. *(Column field type : Single_line_text)*
   
-- Notices : 
+- Projects : 
   * Description - This stores the Project Description given by the teacher. *(Column field type : Single_line_text)*
   * Due Date - This stores the submission date of the project. *(Column field type : Single_line_text)*
   * Class - This stores the projects's grade (what grade students are applicable for this project). *(Column field type : Single_line_text)*
