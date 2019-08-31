@@ -4,12 +4,12 @@ Bloom is a Back-to-School helping app, which provides access to the Student of f
 ## All features
 * Recent Notices - the student has the ability to view the notices published by his/her teacher.
 * Moments - A photo wall for the whole school, where any "Teacher" can post his/her class activities/events photos to whole school.
-* Projects - The student also has the ability to browse the assigned projects to the class & can also take a look at wha projects are other classes getting.
-* Notes - The student can also take his important notes on the go; with the abiliy of deleting/viewing them later.
+* Projects - The student also has the ability to browse the assigned projects to the class & can also take a look at what projects are other classes getting.
+* Notes - The student can also take his important notes on the go; with the ability of deleting/viewing them later.
 * ToDo(s) - The student can also organize his work with the ToDo(s) feature, similar to the Notes, he can also view/delete them later.
-* Dictionary - This feature allows the student to access the Learner's Dictionary, (powered by the Webster's Dictionary) where he/she gets the word type, defination, plural of the given word.
+* Dictionary - This feature allows the student to access the Learner's Dictionary, (powered by the Webster's Dictionary) where he/she gets the word type, definition, plural of the given word.
 * Translator - The student can also Translate English to any supported language he/she wishes.
-* My Feed - The student can also get his feed, which consits of top articlesfor students, suggested books to read, helpful sites, and more.
+* My Feed - The student can also get his feed, which consists of top articles for students, suggested books to read, helpful sites, and more.
 * Search a book's details - This is a very advanced and useful feature for a student. He/She can the book's main & important deails of the book he/she is holding by just entering the "ISBN" number of the book (which is found at the back side of the book).
 
 ## Types of Users
