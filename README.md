@@ -10,7 +10,7 @@ Bloom is a Back-to-School helping app, which provides access to the Student of f
 * Dictionary - This feature allows the student to access the Learner's Dictionary, (powered by the Webster's Dictionary) where he/she gets the word type, defination, plural of the given word.
 * Translator - The student can also Translate English to any supported language he/she wishes.
 * My Feed - The student can also get his feed, which consits of top articlesfor students, suggested books to read, helpful sites, and more.
-* Search a book's details - This is a very advanced and useful feature for a student. He/She can the book's main & important deails of the book he/she is holding by jus entering the "ISBN" number of the book (which is found at the back side of the book).
+* Search a book's details - This is a very advanced and useful feature for a student. He/She can the book's main & important deails of the book he/she is holding by just entering the "ISBN" number of the book (which is found at the back side of the book).
 
 ## Types of Users
 * Students - These have access to *view* everything - dictionary, translator, read notices, projects, etc. (They cannot add/edit anything like notices, projects & moments)
