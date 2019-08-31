@@ -25,7 +25,7 @@ The Spreadsheet consists of the following Tables, with their respective Column h
   
 - Teachers : 
   * Name - This stores the Teacher's entered Name. *(Column field type : Single_line_text)*
-  * Grade - This stores the Teacher's selected Grade which he/she teaches. *(Column field type : Single_line_text)*
+  * Teaching Grade - This stores the Teacher's selected Grade which he/she teaches. *(Column field type : Single_line_text)*
   
 - Notices : 
   * Notice - This stores the Notice Body given by the teacher. *(Column field type : Single_line_text)*
